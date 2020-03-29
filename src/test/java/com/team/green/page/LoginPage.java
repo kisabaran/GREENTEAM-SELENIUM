@@ -30,4 +30,6 @@ public class LoginPage extends BasePage {
     public void clickLoginEnter(){
         click(LOGIN_ENTER);
     }
+
+
 }

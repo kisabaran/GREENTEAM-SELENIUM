@@ -39,4 +39,5 @@ public class LoginPageTest extends BaseTest {
         loginPage.clickLoginEnter();
     }
 
+
 }
